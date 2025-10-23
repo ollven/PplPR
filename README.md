@@ -1,2 +1,2 @@
 # PplPR
-trigger silent 300 sekonds
+trigger silent 300 seconds second
